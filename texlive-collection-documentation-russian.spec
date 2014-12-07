@@ -7,7 +7,7 @@
 Name:		texlive-collection-documentation-russian
 Epoch:		1
 Version:	20120224
-Release:	7
+Release:	8
 Summary:	Russian documentation
 Group:		Publishing
 URL:		http://tug.org/texlive
